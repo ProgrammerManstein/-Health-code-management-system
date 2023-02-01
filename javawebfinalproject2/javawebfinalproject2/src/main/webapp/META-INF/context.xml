@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context reloadable="true">
+    <Resource
+            name="jdbc/javawebproject"
+            type="javax.sql.DataSource"
+            maxTotal="7"
+            maxIdle="2"
+            driverClassName="com.mysql.cj.jdbc.Driver"
+            url="jdbc:mysql://127.0.0.1:3306/javawebproject?useSSL=true"
+            username="root"
+            password="manstein2000"
+            maxWaitMillis="5000"/>
+</Context>

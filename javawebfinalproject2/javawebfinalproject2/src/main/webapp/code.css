@@ -1,0 +1,43 @@
+#date {
+    display: block;
+    text-align: center;
+    background-color: white;
+    font-size: 300%;
+    font-weight: bold;
+    margin: 0.8rem 0;
+    padding: 0.5rem;
+}
+#time {
+    display: block;
+    text-align: center;
+    background-color: white;
+    font-size: 300%;
+    font-weight: bold;
+    margin: 0.8rem 0;
+    padding: 0.5rem;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: gainsboro;
+}
+#info {
+    display: block;
+    text-align: center;
+    background-color: white;
+    margin: 0.8rem 0;
+    padding: 0.5rem;
+}
+#code {
+    display: block;
+    text-align: center;
+    background-color: white;
+    margin: 0.8rem 0;
+    padding: 0.5rem;
+}
+#annotation {
+    display: block;
+    text-align: center;
+    background-color: white;
+    font-size: 50%;
+    margin: 0.8rem 0;
+    padding: 0.5rem;
+}
